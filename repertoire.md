@@ -40,10 +40,10 @@ Chaque note est **acquise quand le critère est réussi 3 fois de suite**, déte
 | 4 | Desafinado | F | 2 | 1 | 0 |  |
 | 5 | Corcovado | C | 2 | 1 | 0 |  |
 | 6 | Garota de Ipanema | F | 3 | 2 | 0 |  |
-| 7 | Samba de Orfeu | défaut iReal (à confirmer) | 2 | 1 | 0 |  |
+| 7 | Samba de Orfeu | G | 2 | 1 | 0 |  |
 | 8 | One Note Samba | Bb | 2 | 1 | 0 |  |
-| 9 | Água de Beber | défaut iReal (à confirmer) | 2 | 1 | 0 |  |
-| 10 | O Barquinho | défaut iReal (à confirmer) | 2 | 1 | 0 |  |
+| 9 | Água de Beber | Dm | 2 | 1 | 0 |  |
+| 10 | O Barquinho | F | 2 | 1 | 0 |  |
 
 Enregistrements de référence (concert de Cussac) : `~/Audio/JamCapture/Recordings/concert-cussac/` (O Barquinho : pas d'enregistrement ; Only You figure dans le concert mais je ne le joue pas, donc hors rotation).
 
@@ -52,7 +52,7 @@ Statut (Jazz, Funk) : 0 = pas commencé · 1 = avec iReal / partition · 2 = gri
 ## Jazz (impro / comping / walking bass)
 | Morceau | Tonalité | Impro | Comping | Walking bass | Grille par cœur | Mélodie par cœur | Dernière révision |
 |---|---|---|---|---|---|---|---|
-| Blue Bossa | | | | | | 2 | |
+| Blue Bossa | | | | | | 3 | |
 | Autumn Leaves | | | | | | | |
 | Summertime | | | | | | | |
 
