@@ -53,8 +53,23 @@ Statut (Jazz, Funk) : 0 = pas commencé · 1 = avec iReal / partition · 2 = gri
 | Morceau | Tonalité | Impro | Comping | Walking bass | Grille par cœur | Mélodie par cœur | Dernière révision |
 |---|---|---|---|---|---|---|---|
 | Blue Bossa | | | | | | 3 | |
-| Autumn Leaves | | | | | | | |
 | Summertime | | | | | | | |
+
+## Atelier jazz (basse)
+Critères walking bass (0–4), même règle : 3 réussites de suite, détendu.
+| Note | Critère |
+|---|---|
+| 0 | Pas commencé. |
+| 1 | Fondamentales en noires sur toute la grille, avec partition. |
+| 2 | Ligne construite (1-2-3-5, arpèges, approches chromatiques), avec partition, sans arrêt au tempo de l'atelier. |
+| 3 | Sans partition ; la fondamentale (ou une note de l'accord) tombe sur le temps 1 de chaque accord, approche la mesure d'avant ; métronome sur 2 et 4. |
+| 4 | Prêt pour l'atelier : sans partition, lignes variées d'un chorus à l'autre, tempo stable, je ne perds pas la forme pendant les solos. |
+
+| Morceau | Tonalité | Forme | Walking bass (/4) | Grille (/3) | Mélodie (/3) | Dernière révision |
+|---|---|---|---|---|---|---|
+| Now's the Time | F | Blues 12 mesures (Parker) | 1 | | | 2026-09-29 |
+| Autumn Leaves | Em | AABC 32 mesures | 1 | | | |
+| Just the Two of Us | Fm | Soul, grille en boucle | 1 | | | |
 
 ## Funk / soul / blues
 | Morceau | Tonalité | Statut | Dernière révision |
