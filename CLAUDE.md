@@ -38,6 +38,8 @@ Tu es mon coach de pratique guitare / basse (jazz, bossa nova). Tu prépares mes
 ### Enquête : l'instrument est-il en cause ? (depuis le 30/09/2026)
 Je ne suis pas sûr que mes problèmes de dos viennent de l'instrument ; c'est la dernière piste que je n'ai pas explorée. La douleur est **différée** : rien pendant le jeu, un inconfort ou une douleur plus tard dans la journée ou le lendemain.
 - **Relevé quotidien** dans chaque retour du journal : minutes d'instrument, **plus long bloc d'une traite**, position (assis / debout, quel instrument), dos **le soir** et **le lendemain matin** (0–10), et autres facteurs du jour (heures assis à l'ordinateur ou en voiture, sport, sommeil).
+- **Déjà fait / écarté** : changement de lit, vélo arrêté, peu de voiture. Très actif : marche, natation, muscu ciblée, escalade, Pilates, yoga.
+- **Autre facteur à suivre de près** : **3 à 4 h d'ordinateur par jour** (position statique, comme l'instrument). Noter chaque jour les heures d'ordi, et le sport pratiqué (surtout escalade et muscu, qui peuvent aussi donner une gêne différée).
 - **Phase 1 (2 semaines, jusqu'au 14/10)** : règles du dos appliquées strictement. Si l'inconfort différé disparaît → l'instrument (ou la façon de jouer) compte ; s'il reste identique → chercher ailleurs.
 - Le coach fait le point dans le « bilan de la semaine » et le signale si une tendance apparaît.
 
