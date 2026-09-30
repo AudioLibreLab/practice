@@ -36,7 +36,7 @@ Chaque note est **acquise quand le critère est réussi 3 fois de suite**, déte
 |---|---|---|---|---|---|---|
 | 1 | Wave | D | 2 | 1 | 1 |  |
 | 2 | Samba de Verão | F | 2 | 1 | 0 |  |
-| 3 | Manhã de Carnaval | Em | 2 | 1 | 0 |  |
+| 3 | Manhã de Carnaval | Em | 2 | 1 | 0 | 2026-09-29 |
 | 4 | Desafinado | F | 2 | 1 | 0 |  |
 | 5 | Corcovado | C | 2 | 1 | 0 |  |
 | 6 | Garota de Ipanema | F | 3 | 2 | 0 |  |
