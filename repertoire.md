@@ -67,7 +67,7 @@ Critères walking bass (0–4), même règle : 3 réussites de suite, détendu.
 
 | Morceau | Tonalité | Forme | Walking bass (/4) | Grille (/3) | Mélodie (/3) | Dernière révision |
 |---|---|---|---|---|---|---|
-| Now's the Time | F | Blues 12 mesures (Parker) | 1 | | | 2026-09-29 |
+| Now's the Time | F | Blues 12 mesures (Parker) | 1 | | | 2026-09-30 |
 | Autumn Leaves | Em | AABC 32 mesures | 1 | | | |
 | Just the Two of Us | Fm | Soul, grille en boucle | 1 | | | |
 
