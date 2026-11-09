@@ -1,0 +1,60 @@
+# Cours de basse n° 2 — arpèges et renversements
+
+**Idée centrale** : avoir dans la tête, en même temps, l'arpège d'un accord et ses 4 renversements,
+posés sur les formes de pentatonique que je connais déjà. Puis s'en servir sur un vrai morceau
+(Blue Bossa).
+
+## 1. Les positions de l'arpège
+- **F7** : deux doigtés à partir de la fondamentale, l'un **vers l'avant** (vers le chevalet),
+  l'autre **vers l'arrière** (vers la tête), le second ayant la forme de C7.
+- **FΔ7** a une forme différente de F7 (la 7e est un demi-ton plus haut) : ne pas confondre les deux.
+
+## 2. Le lien avec les pentatoniques
+- **Penta mineure** = arpège m7 + la quarte. Ex. Do : C E♭ (F) G B♭ → Cm7.
+- **Penta majeure** ≈ arpège Δ7 / 7 **à une note près** : la 7e. Ex. Do : C D E G A contient
+  C E G ; il ne manque que B (CΔ7) ou B♭ (C7). Repérer la triade dans la forme de penta et y
+  ajouter la 7e.
+- Intérêt : je connais déjà les formes de penta, l'arpège est « dedans ». Je le repère au lieu de
+  l'apprendre comme une forme de plus.
+
+## 3. L'exercice : Cm7 et G7, un arpège par renversement
+Pour **Cm7** (C E♭ G B♭) et **G7** (G B D F), jouer l'arpège 4 fois, en partant chaque fois d'une
+autre note à la basse :
+
+| Renversement | Cm7 | G7 |
+|---|---|---|
+| Fondamental (1 à la basse) | C E♭ G B♭ | G B D F |
+| 1er (3ce à la basse) | E♭ G B♭ C | B D F G |
+| 2e (5te à la basse) | G B♭ C E♭ | D F G B |
+| 3e (7e à la basse) | B♭ C E♭ G | F G B D |
+
+- Chaque forme est **calée sur une forme de penta** : dire à voix haute dans quelle forme je suis.
+- En chantant les degrés (1, 3, 5, 7), métronome sur 2 et 4, détendu.
+- **iReal Pro** : grille de 2 mesures **G7 | Cm7** en boucle (V → i en do mineur).
+  Enchaîner les renversements en cherchant la note la plus proche au changement :
+  B → C, F → E♭ (les notes guides).
+
+**Critère de réussite** : sur la boucle, pouvoir démarrer Cm7 ou G7 par n'importe quelle note de
+l'accord sans chercher, 3 fois de suite proprement.
+
+## 4. Application : renversements sur Blue Bossa
+Grille habituelle (à vérifier sur iReal) :
+
+| Cm7 | Fm7 | Dm7♭5 | G7 | Cm7 | E♭m7 A♭7 | D♭Δ7 | Dm7♭5 G7 | Cm7 |
+
+Chercher, pour chaque accord, le renversement dont la basse est **la plus proche** de la précédente.
+Exemple de ligne à essayer (basse quasi immobile) :
+
+- Cm7 → Fm7/C → Dm7♭5/C → G7/B → Cm7 : **C C C B C**
+- E♭m7 → A♭7/E♭ → D♭Δ7 → Dm7♭5/C → G7/B → Cm7 : **E♭ E♭ D♭ C B C**
+
+Puis trouver d'autres lignes (basse qui monte, basse qui descend) et les jouer sur iReal.
+
+---
+Notes brutes du cours (pour mémoire) :
+
+position de Fa7 / Deux déploiment sur la basse fondamentale, avant arrière (forme de Do7) /
+et FaM7 est différente / Penta mineure: arpège mineur / Penta majeure: arpège maj7/7 /
+Faire Dom7 et Sol7 sur 1 arpège par renversement, 4 forme arpèges (chaque note de l'arpège à la
+basse) / A caler sur les formes de penta / ireal Pro 2/4 mesure Sol7/Dom7 /
+Trouver des renversements sur blue bossa
